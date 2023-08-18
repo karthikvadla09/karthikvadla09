@@ -19,11 +19,11 @@ I'm a passionate cybersecurity enthusiast who is actively learning and exploring
 
 ## Connect with Me
 
-- 📫 How to reach me: karthikvadla2003@gmail.com
-- 🐦 Follow me on Twitter: [@YourTwitterHandle]
-- 💼 Connect with me on LinkedIn: [Your LinkedIn Profile]
+- 📫 How to reach me: [karthikvadla2003@gmail.com](mailto:karthikvadla2003@gmail.com)
+- 💼 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/karthik-vadla-1734701b0)
+
 
 Feel free to connect with me, exchange knowledge, and collaborate on projects related to cybersecurity, scripting, and more!
 
 <!-- Add any additional sections, projects, or badges as desired -->
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b14c8aa0-c00b-4b20-916c-3e41c67b5afc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
