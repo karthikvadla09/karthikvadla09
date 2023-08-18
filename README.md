@@ -25,6 +25,4 @@ I'm a passionate cybersecurity enthusiast who is actively learning and exploring
 
 Feel free to connect with me, exchange knowledge, and collaborate on projects related to cybersecurity, scripting, and more!
 
-<!-- Add any additional sections, projects, or badges as desired -->
-![CCNA - Introduction to Networks]([https://www.credly.com/badges/credly-badge/image](https://www.credly.com/badges/b14c8aa0-c00b-4b20-916c-3e41c67b5afc/public_url)https://www.credly.com/badges/b14c8aa0-c00b-4b20-916c-3e41c67b5afc/public_url)
 
