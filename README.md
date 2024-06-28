@@ -4,7 +4,6 @@ I'm a passionate cybersecurity enthusiast who is actively learning and exploring
 
 ## About Me
 
-- 💼 Currently a Student at HITAM.
 - 🌱 Learning and growing in the field of cybersecurity.
 - 🔍 Exploring the power of Bash scripting for automating security tasks.
 - 🐍 Proficient in Python, with a focus on scripting for penetration testing.
